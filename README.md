@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meglody&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌱 Views
 ![Views](https://count.getloli.com/get/@Meglody?theme=moebooru)
+## 🧮 Leetcode
+[![LeetCode stats](https://stats.justsong.cn/api/leetcode?username=meglody-z&cn=true)](https://leetcode-cn.com/u/meglody-z/)
 
 ## ⚡ Social Links
 #### Genshin Impact
