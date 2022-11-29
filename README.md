@@ -1,5 +1,5 @@
 ## 🐱 My GitHub Stats
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Meglody&show_icons=true&theme=dracula)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Meglody&show_icons=true&theme=dracula)](https://github.com/pulls?q=author%3Ameglody)
 ## 💬 Recently Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meglody&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌱 Views
